@@ -29,7 +29,7 @@ builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.Requ
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
 builder.Services.AddFeatureManagement()
-    .AddFeatureFilter<TargetingFilter>();
+    .AddFeatureFilter<TargetingFilter>().AddFeatureFilter<PercentageFilter>();
 builder.Services.AddSingleton<ITargetingContextAccessor, TestTargetingContextAccessor>();
 
 var app = builder.Build();
