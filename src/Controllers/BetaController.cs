@@ -14,7 +14,5 @@ namespace TestFeatureFlags.Controllers
         [FeatureGate(MyFeatureFlags.Beta)]
         public IActionResult Index() => View();
 
-        [FeatureGate(MyFeatureFlags.FeatureA)]
-        public IActionResult FeatureA() => View();
     }
 }

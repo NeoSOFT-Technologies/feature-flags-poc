@@ -31,7 +31,9 @@ builder.Services.AddControllersWithViews();
 
 // Feature Management
 builder.Services.AddFeatureManagement()
-    .AddFeatureFilter<TargetingFilter>().AddFeatureFilter<PercentageFilter>().AddFeatureFilter<TimeWindowFilter>();
+    .AddFeatureFilter<TargetingFilter>()
+    .AddFeatureFilter<PercentageFilter>()
+    .AddFeatureFilter<TimeWindowFilter>();
 builder.Services.AddSingleton<ITargetingContextAccessor, TestTargetingContextAccessor>();
 
 var app = builder.Build();
