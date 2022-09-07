@@ -32,7 +32,7 @@
                         </feature>
                         <feature name="FeatureA">
                             <li class="nav-item">
-                                <a class="nav-link text-dark" asp-area="" asp-controller="Beta" asp-action="FeatureA">FeatureA</a>
+                                <a class="nav-link text-dark" asp-area="" asp-controller="FeatureA" asp-action="Index">FeatureA</a>
                             </li>
                         </feature>
                         @if (await _featureManager.IsEnabledAsync(nameof(MyFeatureFlags.FeatureB)))
