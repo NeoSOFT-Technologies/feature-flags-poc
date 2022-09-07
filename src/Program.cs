@@ -33,7 +33,8 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddFeatureManagement()
     .AddFeatureFilter<TargetingFilter>()
     .AddFeatureFilter<PercentageFilter>()
-    .AddFeatureFilter<TimeWindowFilter>();
+    .AddFeatureFilter<TimeWindowFilter>()
+    .UseDisabledFeaturesHandler(new RedirectDisabledFeatureHandler());
 builder.Services.AddSingleton<ITargetingContextAccessor, TestTargetingContextAccessor>();
 
 var app = builder.Build();
