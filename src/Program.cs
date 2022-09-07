@@ -28,8 +28,10 @@ builder.Services.AddDatabaseDeveloperPageExceptionFilter();
 builder.Services.AddDefaultIdentity<IdentityUser>(options => options.SignIn.RequireConfirmedAccount = true)
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+
+// Feature Management
 builder.Services.AddFeatureManagement()
-    .AddFeatureFilter<TargetingFilter>().AddFeatureFilter<PercentageFilter>();
+    .AddFeatureFilter<TargetingFilter>().AddFeatureFilter<PercentageFilter>().AddFeatureFilter<TimeWindowFilter>();
 builder.Services.AddSingleton<ITargetingContextAccessor, TestTargetingContextAccessor>();
 
 var app = builder.Build();
