@@ -2,6 +2,8 @@
 {
     public enum MyFeatureFlags
     {
-        Beta
+        Beta,
+        FeatureA,
+        FeatureB
     }
 }
