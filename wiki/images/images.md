@@ -18,5 +18,6 @@
 
 
 ![TimeWindow](https://user-images.githubusercontent.com/87525401/201860869-b6179996-4183-4bc3-8474-e5cd8043c4aa.PNG)
+![TimeWindow1](https://user-images.githubusercontent.com/87525401/201861479-2dc6a088-d9cf-4206-8225-5c8a5769614e.PNG)
 
 
