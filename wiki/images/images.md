@@ -17,4 +17,6 @@
 ![targeting filter lbl](https://user-images.githubusercontent.com/92291258/201857892-9a322c5b-748a-4b28-b4ac-2618078076e4.png)
 
 
+![TimeWindow](https://user-images.githubusercontent.com/87525401/201860869-b6179996-4183-4bc3-8474-e5cd8043c4aa.PNG)
+
 
