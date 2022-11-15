@@ -8,7 +8,7 @@
 
 ![AzureFlags](https://user-images.githubusercontent.com/87525401/201849939-09f92a85-91bf-4aa1-ab76-06f9a984a06b.png)
 ![PercentageAzure](https://user-images.githubusercontent.com/87525401/201851697-e038acd5-7b2e-4089-94fd-c7ceaf44ab0a.png)
-
-
+![PercentageEdit](https://user-images.githubusercontent.com/87525401/201852230-f633ef1d-7148-48d6-a444-ca853357602d.png)
+![PercentageValue](https://user-images.githubusercontent.com/87525401/201853181-923bc8f0-6f26-4f89-8998-5dd7f44df437.PNG)
 
 
