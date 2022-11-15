@@ -12,4 +12,7 @@
 ![PercentageValue](https://user-images.githubusercontent.com/87525401/201853181-923bc8f0-6f26-4f89-8998-5dd7f44df437.PNG)
 ![CustomFilter](https://user-images.githubusercontent.com/87525401/201854475-48ef35d3-fe41-48a9-bcc1-39fdb1bc9828.PNG)
 
+![Edit feature A](https://user-images.githubusercontent.com/92291258/201856839-2335dc5f-fc5e-40d8-ae47-b8e8048e3eec.png)
+![Edit feature A Form](https://user-images.githubusercontent.com/92291258/201856848-97aec4cb-f3a8-4922-90ef-0b3d67c9c509.png)
+
 
