@@ -21,3 +21,6 @@
 ![TimeWindow1](https://user-images.githubusercontent.com/87525401/201861479-2dc6a088-d9cf-4206-8225-5c8a5769614e.PNG)
 
 
+![connection string azure](https://user-images.githubusercontent.com/92291258/201893374-77d8cb7b-e1e7-4101-8923-043182187069.png)
+
+
